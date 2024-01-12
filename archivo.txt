@@ -1,0 +1,2 @@
+hola grupo")
+=input("ingrese por favor nombre:")
